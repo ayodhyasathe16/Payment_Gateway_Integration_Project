@@ -3,6 +3,7 @@
 Create a simple button on home page. Onclicking the donate button, the user will land on the payment page where user can select the amount to be paid and the payment type.
 <br><br>
 <b>Payment Gateway Used: Razorpay</b>
+<br><br>
 <b>Front End :</b>
 <ol>
   <li>HTML</li>
